@@ -39,15 +39,15 @@ I inspected the raw data before writing any code and made four cleaning and scop
 
 ## Overview | Claim volume trends 2015–2022, inpatient vs outpatient split
 
-<img width="2264" height="1290" alt="image" src="https://github.com/user-attachments/assets/c079350a-d92c-43fb-a1d0-260228632d3a" />
+<img width="2248" height="1164" alt="image" src="https://github.com/user-attachments/assets/d804b8a9-0466-490a-9f33-60526c99c4e9" />
 
 ## Inpatient Analysis | Top DRGs by cost and LOS, scatter plot of stay vs payment
 
-<img width="2286" height="1276" alt="image" src="https://github.com/user-attachments/assets/10453ca2-3750-4ed3-92e9-7f8b6511db25" />
+<img width="2236" height="1154" alt="image" src="https://github.com/user-attachments/assets/bdef4610-72ec-4e16-adac-de5d17138c31" />
 
 ## Outpatient Analysis | Top diagnoses by cost and volume, cost vs volume scatter
 
-<img width="2264" height="1282" alt="image" src="https://github.com/user-attachments/assets/87f65baa-4dd6-4266-a781-9845ac7c4ca5" />
+<img width="2220" height="1118" alt="image" src="https://github.com/user-attachments/assets/6d2a3013-d353-4ee8-882f-ca5595c113ba" />
 
 ## Patient Demographics | Age group distribution, spend by age, race and gender breakdown
 
@@ -55,7 +55,7 @@ I inspected the raw data before writing any code and made four cleaning and scop
 
 ## Provider Analysis | Top providers and states by Medicare spend
 
-<img width="2260" height="1268" alt="image" src="https://github.com/user-attachments/assets/c0c5bc82-a93c-45e2-9112-978ea0463be7" />
+<img width="2248" height="1178" alt="image" src="https://github.com/user-attachments/assets/d36d9b7d-3a8f-42f4-89f9-1656d0648c94" />
 
 ## Key Findings
 
