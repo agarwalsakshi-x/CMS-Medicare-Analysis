@@ -23,7 +23,7 @@ Loaded, cleaned, and analyzed 3 CMS synthetic Medicare files (Beneficiary, Inpat
 
 ## Tools
 
-Python (Pandas, Google Colab) · Power BI Desktop · Notion (documentation)
+Python (Pandas, Google Colab) · Power BI Desktop 
 
 ## Data Cleaning Highlights
 
